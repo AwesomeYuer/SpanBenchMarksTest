@@ -9,3 +9,14 @@
 /Users/xiaokang/Projects/QuickSortBenchMarks/QuickSortBenchMarks/obj/Debug/netcoreapp2.2/MyTestBenchMarks.AssemblyInfo.cs
 /Users/xiaokang/Projects/QuickSortBenchMarks/QuickSortBenchMarks/obj/Debug/netcoreapp2.2/MyTestBenchMarks.dll
 /Users/xiaokang/Projects/QuickSortBenchMarks/QuickSortBenchMarks/obj/Debug/netcoreapp2.2/MyTestBenchMarks.pdb
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\bin\Debug\netcoreapp2.2\MyTestBenchMarks.deps.json
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\bin\Debug\netcoreapp2.2\MyTestBenchMarks.runtimeconfig.json
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\bin\Debug\netcoreapp2.2\MyTestBenchMarks.runtimeconfig.dev.json
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\bin\Debug\netcoreapp2.2\MyTestBenchMarks.dll
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\bin\Debug\netcoreapp2.2\MyTestBenchMarks.pdb
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.csprojAssemblyReference.cache
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.csproj.CoreCompileInputs.cache
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.AssemblyInfoInputs.cache
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.AssemblyInfo.cs
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.dll
+D:\MyGitHub\SpanBenchMarksTest\QuickSortBenchMarks\obj\Debug\netcoreapp2.2\MyTestBenchMarks.pdb
